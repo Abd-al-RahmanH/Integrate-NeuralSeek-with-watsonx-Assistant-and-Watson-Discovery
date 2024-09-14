@@ -112,7 +112,7 @@ For additional help, please refer to [IBM’s official documentation](https://cl
 
 ### Image Hosting
 
-To host images, you can upload them to a platform such as:
+ 
 
  
 
