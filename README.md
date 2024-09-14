@@ -106,7 +106,7 @@ By integrating NeuralSeek with watsonx Assistant and Watson Discovery, you can d
 
 ---
 
-For additional help, please refer to [IBM’s official documentation](https://cloud.ibm.com/docs) or  
+For additional help, please refer to  
 
  
 
