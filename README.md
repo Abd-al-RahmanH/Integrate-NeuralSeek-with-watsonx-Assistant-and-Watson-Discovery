@@ -110,7 +110,7 @@ For additional help, please refer to [IBM’s official documentation](https://cl
 
 ---
 
-### Image Hosting
+ 
 
  
 
