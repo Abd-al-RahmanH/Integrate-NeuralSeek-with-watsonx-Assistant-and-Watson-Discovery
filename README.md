@@ -102,7 +102,7 @@ The entire process should take approximately **30 minutes** to complete, dependi
 
 ## Conclusion
 
-By integrating NeuralSeek with watsonx Assistant and Watson Discovery, you can dramatically improve the chatbot’s search capabilities.  
+By integrating NeuralSeek with watsonx Assistant and Watson Discovery, you can dramatically improve the chatbot’s search capabilities. The deep-learning models provided by NeuralSeek will help your assistant deliver more accurate, faster, and contextually relevant search results to user queries.
 
  
 
