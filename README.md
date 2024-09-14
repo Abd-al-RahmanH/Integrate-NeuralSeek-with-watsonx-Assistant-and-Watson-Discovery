@@ -114,10 +114,7 @@ For additional help, please refer to [IBM’s official documentation](https://cl
 
 To host images, you can upload them to a platform such as:
 
-- **GitHub**: Add images to your repository, then use the GitHub raw image links in place of the placeholders.
-- **Imgur**: Use image-sharing platforms like Imgur to host your images, and replace the placeholders with the direct image URLs.
-
-Replace the placeholders (`link_to_image_#`) with the URLs of your hosted images.
+ 
 
  
  
